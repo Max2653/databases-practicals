@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="806" viewBox="0 0 1120 806" font-family="Segoe UI, Arial, Helvetica, sans-serif">
+<rect x="0" y="0" width="1120" height="806" fill="#ffffff"/>
+<text x="40" y="40" font-size="20" font-weight="700" fill="#222">ER-модель «Бібліотека коледжу»</text>
+<text x="40" y="60" font-size="13" fill="#555">Концептуальна модель, нотація Crow's Foot (Мартіна). Вихідний файл draw.io — er-diagram.drawio</text>
+<line x1="290" y1="126" x2="420" y2="126" stroke="#333333" stroke-width="1.6"/>
+<line x1="299.0" y1="118.0" x2="299.0" y2="134.0" stroke="#333333" stroke-width="1.6"/>
+<line x1="305.0" y1="118.0" x2="305.0" y2="134.0" stroke="#333333" stroke-width="1.6"/>
+<line x1="404.0" y1="126.0" x2="420.0" y2="135.0" stroke="#333333" stroke-width="1.6"/>
+<line x1="404.0" y1="126.0" x2="420.0" y2="117.0" stroke="#333333" stroke-width="1.6"/>
+<line x1="398.0" y1="134.0" x2="398.0" y2="118.0" stroke="#333333" stroke-width="1.6"/>
+<text x="355.0" y="117.0" font-size="12.5" text-anchor="middle" fill="#222" font-style="italic">бере участь у →</text>
+<line x1="670" y1="126" x2="800" y2="126" stroke="#333333" stroke-width="1.6"/>
+<line x1="686.0" y1="126.0" x2="670.0" y2="117.0" stroke="#333333" stroke-width="1.6"/>
+<line x1="686.0" y1="126.0" x2="670.0" y2="135.0" stroke="#333333" stroke-width="1.6"/>
+<line x1="692.0" y1="118.0" x2="692.0" y2="134.0" stroke="#333333" stroke-width="1.6"/>
+<line x1="791.0" y1="134.0" x2="791.0" y2="118.0" stroke="#333333" stroke-width="1.6"/>
+<line x1="785.0" y1="134.0" x2="785.0" y2="118.0" stroke="#333333" stroke-width="1.6"/>
+<text x="735.0" y="117.0" font-size="12.5" text-anchor="middle" fill="#222" font-style="italic">← має</text>
+<line x1="290" y1="456" x2="420" y2="456" stroke="#333333" stroke-width="1.6"/>
+<line x1="299.0" y1="448.0" x2="299.0" y2="464.0" stroke="#333333" stroke-width="1.6"/>
+<line x1="305.0" y1="448.0" x2="305.0" y2="464.0" stroke="#333333" stroke-width="1.6"/>
+<line x1="404.0" y1="456.0" x2="420.0" y2="465.0" stroke="#333333" stroke-width="1.6"/>
+<line x1="404.0" y1="456.0" x2="420.0" y2="447.0" stroke="#333333" stroke-width="1.6"/>
+<circle cx="392.0" cy="456.0" r="6" fill="#ffffff" stroke="#333333" stroke-width="1.6"/>
+<text x="355.0" y="447.0" font-size="12.5" text-anchor="middle" fill="#222" font-style="italic">отримує →</text>
+<line x1="670" y1="456" x2="800" y2="456" stroke="#333333" stroke-width="1.6"/>
+<line x1="686.0" y1="456.0" x2="670.0" y2="447.0" stroke="#333333" stroke-width="1.6"/>
+<line x1="686.0" y1="456.0" x2="670.0" y2="465.0" stroke="#333333" stroke-width="1.6"/>
+<circle cx="698.0" cy="456.0" r="6" fill="#ffffff" stroke="#333333" stroke-width="1.6"/>
+<line x1="791.0" y1="464.0" x2="791.0" y2="448.0" stroke="#333333" stroke-width="1.6"/>
+<line x1="785.0" y1="464.0" x2="785.0" y2="448.0" stroke="#333333" stroke-width="1.6"/>
+<text x="735.0" y="447.0" font-size="12.5" text-anchor="middle" fill="#222" font-style="italic">← видається в</text>
+<line x1="940.0" y1="292" x2="940.0" y2="400" stroke="#333333" stroke-width="1.6"/>
+<line x1="948.0" y1="301.0" x2="932.0" y2="301.0" stroke="#333333" stroke-width="1.6"/>
+<line x1="948.0" y1="307.0" x2="932.0" y2="307.0" stroke="#333333" stroke-width="1.6"/>
+<line x1="940.0" y1="384.0" x2="931.0" y2="400.0" stroke="#333333" stroke-width="1.6"/>
+<line x1="940.0" y1="384.0" x2="949.0" y2="400.0" stroke="#333333" stroke-width="1.6"/>
+<circle cx="940.0" cy="372.0" r="6" fill="#ffffff" stroke="#333333" stroke-width="1.6"/>
+<text x="950.0" y="350.0" font-size="12.5" fill="#222" font-style="italic">має ↓</text>
+<line x1="545.0" y1="578" x2="545.0" y2="680" stroke="#333333" stroke-width="1.6"/>
+<line x1="545.0" y1="594.0" x2="554.0" y2="578.0" stroke="#333333" stroke-width="1.6"/>
+<line x1="545.0" y1="594.0" x2="536.0" y2="578.0" stroke="#333333" stroke-width="1.6"/>
+<circle cx="545.0" cy="606.0" r="6" fill="#ffffff" stroke="#333333" stroke-width="1.6"/>
+<line x1="537.0" y1="671.0" x2="553.0" y2="671.0" stroke="#333333" stroke-width="1.6"/>
+<line x1="537.0" y1="665.0" x2="553.0" y2="665.0" stroke="#333333" stroke-width="1.6"/>
+<text x="555.0" y="633.0" font-size="12.5" fill="#222" font-style="italic">↑ оформлює</text>
+<rect x="40" y="70" width="250" height="112" rx="3" fill="#ffffff" stroke="#6c8ebf" stroke-width="1.6"/>
+<path d="M40,102 L40,73 Q40,70 43,70 L287,70 Q290,70 290,73 L290,102 Z" fill="#dae8fc" stroke="#6c8ebf" stroke-width="1.6"/>
+<text x="165.0" y="91" font-size="14" font-weight="700" text-anchor="middle" fill="#222">АВТОР</text>
+<text x="50" y="125" font-size="13" fill="#222" text-decoration="underline" font-weight="600">код автора</text>
+<text x="50" y="147" font-size="13" fill="#222">ПІБ (складений)</text>
+<text x="50" y="169" font-size="13" fill="#222">країна</text>
+<rect x="420" y="70" width="250" height="112" rx="3" fill="#ffffff" stroke="#d6b656" stroke-width="1.6"/>
+<path d="M420,102 L420,73 Q420,70 423,70 L667,70 Q670,70 670,73 L670,102 Z" fill="#fff2cc" stroke="#d6b656" stroke-width="1.6"/>
+<text x="545.0" y="91" font-size="14" font-weight="700" text-anchor="middle" fill="#222">АВТОРСТВО</text>
+<text x="430" y="125" font-size="13" fill="#222">порядковий номер</text>
+<text x="430" y="147" font-size="13" fill="#222">роль</text>
+<text x="430" y="169" font-style="italic" fill="#777" font-size="12">(ідентифікується книгою й автором)</text>
+<rect x="800" y="70" width="280" height="222" rx="3" fill="#ffffff" stroke="#6c8ebf" stroke-width="1.6"/>
+<path d="M800,102 L800,73 Q800,70 803,70 L1077,70 Q1080,70 1080,73 L1080,102 Z" fill="#dae8fc" stroke="#6c8ebf" stroke-width="1.6"/>
+<text x="940.0" y="91" font-size="14" font-weight="700" text-anchor="middle" fill="#222">КНИГА</text>
+<text x="810" y="125" font-size="13" fill="#222" text-decoration="underline" font-weight="600">код книги</text>
+<text x="810" y="147" font-size="13" fill="#222">ISBN (унікальний)</text>
+<text x="810" y="169" font-size="13" fill="#222">назва</text>
+<text x="810" y="191" font-size="13" fill="#222">рік видання</text>
+<text x="810" y="213" font-size="13" fill="#222">видавництво</text>
+<text x="810" y="235" font-size="13" fill="#222">кількість сторінок</text>
+<text x="810" y="257" font-size="13" fill="#222">розділ</text>
+<text x="810" y="279" font-size="13" fill="#444">/кількість вільних примірників</text>
+<rect x="40" y="400" width="250" height="200" rx="3" fill="#ffffff" stroke="#6c8ebf" stroke-width="1.6"/>
+<path d="M40,432 L40,403 Q40,400 43,400 L287,400 Q290,400 290,403 L290,432 Z" fill="#dae8fc" stroke="#6c8ebf" stroke-width="1.6"/>
+<text x="165.0" y="421" font-size="14" font-weight="700" text-anchor="middle" fill="#222">ЧИТАЧ</text>
+<text x="50" y="455" font-size="13" fill="#222" text-decoration="underline" font-weight="600">номер квитка</text>
+<text x="50" y="477" font-size="13" fill="#222">ПІБ (складений)</text>
+<text x="50" y="499" font-size="13" fill="#222">категорія</text>
+<text x="50" y="521" font-size="13" fill="#222">група</text>
+<text x="50" y="543" font-size="13" fill="#222">телефон</text>
+<text x="50" y="565" font-size="13" fill="#222">e-mail</text>
+<text x="50" y="587" font-size="13" fill="#222">дата реєстрації</text>
+<rect x="420" y="400" width="250" height="178" rx="3" fill="#ffffff" stroke="#d6b656" stroke-width="1.6"/>
+<path d="M420,432 L420,403 Q420,400 423,400 L667,400 Q670,400 670,403 L670,432 Z" fill="#fff2cc" stroke="#d6b656" stroke-width="1.6"/>
+<text x="545.0" y="421" font-size="14" font-weight="700" text-anchor="middle" fill="#222">ВИДАЧА</text>
+<text x="430" y="455" font-size="13" fill="#222" text-decoration="underline" font-weight="600">номер видачі</text>
+<text x="430" y="477" font-size="13" fill="#222">дата видачі</text>
+<text x="430" y="499" font-size="13" fill="#222">термін повернення</text>
+<text x="430" y="521" font-size="13" fill="#222">дата повернення</text>
+<text x="430" y="543" font-size="13" fill="#222">статус</text>
+<text x="430" y="565" font-size="13" fill="#444">/днів прострочення</text>
+<rect x="800" y="400" width="280" height="112" rx="3" fill="#ffffff" stroke="#6c8ebf" stroke-width="1.6"/>
+<path d="M800,432 L800,403 Q800,400 803,400 L1077,400 Q1080,400 1080,403 L1080,432 Z" fill="#dae8fc" stroke="#6c8ebf" stroke-width="1.6"/>
+<text x="940.0" y="421" font-size="14" font-weight="700" text-anchor="middle" fill="#222">ПРИМІРНИК</text>
+<text x="810" y="455" font-size="13" fill="#222" text-decoration="underline" font-weight="600">інвентарний номер</text>
+<text x="810" y="477" font-size="13" fill="#222">дата надходження</text>
+<text x="810" y="499" font-size="13" fill="#222">стан</text>
+<rect x="420" y="680" width="250" height="90" rx="3" fill="#ffffff" stroke="#6c8ebf" stroke-width="1.6"/>
+<path d="M420,712 L420,683 Q420,680 423,680 L667,680 Q670,680 670,683 L670,712 Z" fill="#dae8fc" stroke="#6c8ebf" stroke-width="1.6"/>
+<text x="545.0" y="701" font-size="14" font-weight="700" text-anchor="middle" fill="#222">БІБЛІОТЕКАР</text>
+<text x="430" y="735" font-size="13" fill="#222" text-decoration="underline" font-weight="600">табельний номер</text>
+<text x="430" y="757" font-size="13" fill="#222">ПІБ (складений)</text>
+<rect x="40" y="628" width="370" height="166" fill="#fafafa" stroke="#bbb" stroke-dasharray="4 3"/>
+<text x="50" y="648" font-size="13" font-weight="700" fill="#222">Позначення</text>
+<line x1="54" y1="668" x2="114" y2="668" stroke="#333333" stroke-width="1.6"/>
+<line x1="105.0" y1="676.0" x2="105.0" y2="660.0" stroke="#333333" stroke-width="1.6"/>
+<line x1="99.0" y1="676.0" x2="99.0" y2="660.0" stroke="#333333" stroke-width="1.6"/>
+<text x="126" y="672" font-size="12.5" fill="#222">рівно один (1..1)</text>
+<line x1="54" y1="690" x2="114" y2="690" stroke="#333333" stroke-width="1.6"/>
+<line x1="98.0" y1="690.0" x2="114.0" y2="699.0" stroke="#333333" stroke-width="1.6"/>
+<line x1="98.0" y1="690.0" x2="114.0" y2="681.0" stroke="#333333" stroke-width="1.6"/>
+<line x1="92.0" y1="698.0" x2="92.0" y2="682.0" stroke="#333333" stroke-width="1.6"/>
+<text x="126" y="694" font-size="12.5" fill="#222">один або багато (1..N)</text>
+<line x1="54" y1="712" x2="114" y2="712" stroke="#333333" stroke-width="1.6"/>
+<line x1="98.0" y1="712.0" x2="114.0" y2="721.0" stroke="#333333" stroke-width="1.6"/>
+<line x1="98.0" y1="712.0" x2="114.0" y2="703.0" stroke="#333333" stroke-width="1.6"/>
+<circle cx="86.0" cy="712.0" r="6" fill="#ffffff" stroke="#333333" stroke-width="1.6"/>
+<text x="126" y="716" font-size="12.5" fill="#222">нуль або багато (0..N)</text>
+<text x="54" y="738" font-size="12.5" fill="#222"><tspan text-decoration="underline" font-weight="600">підкреслено</tspan> — ключовий атрибут; /атрибут — похідний</text>
+<rect x="54" y="745" width="22" height="12" fill="#fff2cc" stroke="#d6b656"/>
+<text x="84" y="756" font-size="12.5" fill="#222">асоціативна сутність (заміняє зв'язок M:N)</text>
+<text x="54" y="776" font-size="11.5" fill="#555">Символ біля сутності: скільки її екземплярів пов'язано</text>
+<text x="54" y="790" font-size="11.5" fill="#555">з одним екземпляром сутності на іншому кінці лінії.</text>
+</svg>
